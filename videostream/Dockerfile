@@ -38,7 +38,7 @@ ENV VS_VBR="1500k" \
     VS_TEXT_BORDER_W="20" \
     VS_TEXT_X="100" \
     VS_TEXT_Y="350" \
-    VS_AUDIO_SOURCE="http://stations:8000/radio.mp3" \
+    VS_AUDIO_SOURCE="http://45.77.100.64:8000/radio.mp3" \
     VS_VIDEO_SOURCE="/var/azuracast/videostream/example.mp4"
 
 USER azuracast
